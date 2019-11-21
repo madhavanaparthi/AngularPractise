@@ -1,0 +1,15 @@
+{
+    
+    "form":
+    {
+        "name":"priya",
+        "email":"td_priya@gm.com"
+        
+    },
+    "form2":
+    {
+        "password":"prabhu",
+        "dob":"05-09-1983",
+        "url":"https://rahulshettyacademy.com/angularpractice/"
+    }
+}
