@@ -11,7 +11,7 @@
     "jasmine": "^3.5.0",
     "protractor-jasmine2-html-reporter": "^0.0.7",
     "jasmine-data-provider": "^2.2.0",
-    "xlsx": "^0.15.2"
+    "xlsx": "^0.17.0"
   },
   "author": "Madhava Reddy",
   "license": "ISC"
